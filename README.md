@@ -1,6 +1,6 @@
 # NexTech IT Group Portfolio
 
-**Building Ideas. Creating Digital Solutions.**
+**Turning Ideas Into Digital Solutions.**
 
 ## About the Project
 
